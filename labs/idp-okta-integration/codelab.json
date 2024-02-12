@@ -4,14 +4,14 @@
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
   "updated": "2024-02-12T21:37:01Z",
-  "id": "best-practices-hackathon",
+  "id": "idp-okta-integration",
   "duration": 0,
-  "title": "Apigee Best Practices Hackathon",
+  "title": "Apigee IDP integration with Okta",
   "summary": "",
-  "source": "./lab.md",
+  "source": "./README.md",
   "theme": "",
   "status": null,
   "category": null,
   "tags": [],
-  "url": "best-practices-hackathon"
+  "url": "idp-okta-integration"
 }
